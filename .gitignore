@@ -1,0 +1,31 @@
+# MATLAB
+*.asv
+*.mex*
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+
+# Simulink
+slprj/
+*.slxc
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexglx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
